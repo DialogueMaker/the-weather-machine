@@ -5,6 +5,7 @@ This movie intends to showcase the features of the Dialogue Maker's version 5.0.
 ### Themes
 * A brand new, pre-installed [StandardTheme](https://github.com/DialogueMaker/StandardTheme). The old one looked pretty bad, so here's to a more modern one! 
 * A new [SubtitlesTheme](https://github.com/DialogueMaker/SubtitlesTheme). You can see this theme at the bottom of the screen during cutscenes.
+* A new [ShockedTheme](https://github.com/DialogueMaker/ShockedTheme). 
 * Setting themes per dialogue message and per character. You can see it when certain characters are shocked or are thinking about something.
 * Effects that play during the dialogue. You can see the pre-installed [PauseEffect](https://github.com/DialogueMaker/PauseEffect). when certain characters are thinking.
 * ClickToContinue is now optional on themes.
