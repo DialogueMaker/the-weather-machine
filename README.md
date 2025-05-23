@@ -1,5 +1,10 @@
 # The Weather Machine
+<img alt="GitHub social preview weather machine" src="https://github.com/user-attachments/assets/81ee483f-b809-4627-a7d7-da0617141763" />
+
 This movie intends to showcase the features of the Dialogue Maker's version 5.0.0. 
+
+## Acknowledgments
+* **Creator:** [Christian Toney](https://github.com/Christian_Toney)
 
 ## Features highlighted
 ### Themes
@@ -22,3 +27,12 @@ Plugin features aren't visible on the game, so feel free to edit the place to se
 * Dialogue Maker now relies more on Studio's Explorer, giving you more control of the .
 * Dialogue Maker can now be opened by selecting a BasePart, a Model, a DialogueServer ModuleScript, or a ModuleScript descendant under a DialogueServer ModuleScript. 
 * Redirects now use ObjectValues. This helps especially if you move them across the tree using the Explorer.
+
+## License
+This work is licensed under the GPL-3.0 license. Feel free to use or improve it, but be sure to give credit.
+
+## Plot
+### Skating through the ice in chaotic weather
+
+### Making 
+
