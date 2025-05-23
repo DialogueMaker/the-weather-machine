@@ -24,10 +24,7 @@ Plugin features aren't visible on the game, so feel free to edit the place to se
 * Dialogue Maker themes now use Rojo and are now fully responsible for parsing messages and handling responses. Redirects are still handled internally by DialogueClient for convenience. With this change, you don't need to follow a specific tree structure for a functional conversation.
 * Dialogue Maker now relies more on Studio's Explorer, giving you more control of the .
 * Dialogue Maker can now be opened by selecting a BasePart, a Model, a DialogueServer ModuleScript, or a ModuleScript descendant under a DialogueServer ModuleScript. 
-* Redirects now use ObjectValues. This helps especially if you move them across the tree using the Explorer.
-
-## License
-This work is licensed under the GPL-3.0 license. Feel free to use or improve it, but be sure to give credit.
+* Redirects now use ObjectValues. This helps especially if you move them across the tree using the Explorer
 
 ## Plot
 ### Skating through the ice in chaotic weather
@@ -35,3 +32,6 @@ This work is licensed under the GPL-3.0 license. Feel free to use or improve it,
 ## Credits
 ### Created by
 [Christian Toney](https://github.com/Christian_Toney)
+
+## License
+This work is licensed under the GPL-3.0 license. Feel free to use or improve it, but be sure to give credit.
