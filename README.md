@@ -1,10 +1,8 @@
 # The Weather Machine
 <img alt="GitHub social preview weather machine" src="https://github.com/user-attachments/assets/81ee483f-b809-4627-a7d7-da0617141763" />
 
-This movie intends to showcase the features of the Dialogue Maker's version 5.0.0. 
-
-## Acknowledgments
-* **Creator:** [Christian Toney](https://github.com/Christian_Toney)
+## Purpose
+This movie intends to showcase the features of the Dialogue Maker's version 5.0.0. Why are the patch notes a game? Because why *not?*
 
 ## Features highlighted
 ### Themes
@@ -34,5 +32,6 @@ This work is licensed under the GPL-3.0 license. Feel free to use or improve it,
 ## Plot
 ### Skating through the ice in chaotic weather
 
-### Making 
-
+## Credits
+### Created by
+[Christian Toney](https://github.com/Christian_Toney)
