@@ -2,7 +2,7 @@
 <img alt="GitHub social preview weather machine" src="https://github.com/user-attachments/assets/81ee483f-b809-4627-a7d7-da0617141763" />
 
 ## Purpose
-This movie intends to showcase the features of the Dialogue Maker's version 5.0.0. Why are the patch notes a game? Because why *not?*
+This movie intends to showcase the features of the [Dialogue Maker's](https://github.com/DialogueMaker/plugin) version 5.0.0. Why are the patch notes a game? Because why *not?*
 
 ## Features highlighted
 ### Themes
