@@ -2,9 +2,18 @@
 <img alt="GitHub social preview weather machine" src="https://github.com/user-attachments/assets/81ee483f-b809-4627-a7d7-da0617141763" />
 
 ## Purpose
-This movie intends to showcase the features of the [Dialogue Maker's](https://github.com/DialogueMaker/plugin) version 5.0.0. Why are the patch notes a game? Because why *not?*
+This movie intends to showcase the features of version 5.0.0 of the [Dialogue Maker plugin](https://github.com/DialogueMaker/plugin). *Why* did I turn patch notes into a game? *Because* seeing is believing. 
 
-## Features highlighted
+...Also, because I wanted to make a game this summer.
+
+## Features
+### Skate to the beat!
+This is a rhythm game, so get in the groove!. Don't worry, there are only two action buttons.
+
+### Beat the heat!
+The Weatherman used his numeric powers to turn up the heat! Will you be able to bring temps back to normal?
+
+## Dialogue Maker features highlighted
 ### Themes
 * A brand new, pre-installed [StandardTheme](https://github.com/DialogueMaker/StandardTheme). The old one looked pretty bad, so here's to a more modern one! 
 * A new [SubtitlesTheme](https://github.com/DialogueMaker/SubtitlesTheme). You can see this theme at the bottom of the screen during cutscenes.
@@ -22,12 +31,9 @@ Plugin features aren't visible on the game, so feel free to edit the place to se
 * Dialogue Maker doesn't need a server script anymore. Everything's done on the client by default, but you can still interact with the server using remote connections.
 * Dialogue Maker has a light and dark theme.
 * Dialogue Maker themes now use Rojo and are now fully responsible for parsing messages and handling responses. Redirects are still handled internally by DialogueClient for convenience. With this change, you don't need to follow a specific tree structure for a functional conversation.
-* Dialogue Maker now relies more on Studio's Explorer, giving you more control of the .
+* Dialogue Maker now relies more on Studio's Explorer, so navigating the dialogue editor is more efficient.
 * Dialogue Maker can now be opened by selecting a BasePart, a Model, a DialogueServer ModuleScript, or a ModuleScript descendant under a DialogueServer ModuleScript. 
-* Redirects now use ObjectValues. This helps especially if you move them across the tree using the Explorer
-
-## Plot
-### Skating through the ice in chaotic weather
+* Redirects now use ObjectValues. This helps especially if you move them across the tree using the Explorer.
 
 ## Credits
 ### Created by
