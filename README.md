@@ -6,12 +6,12 @@ This movie intends to showcase the features of version 5.0.0 of the [Dialogue Ma
 
 ...Also, because I wanted to make a game this summer.
 
-## Features
+## Summary
 ### Skate to the beat!
 This is a rhythm game, so get in the groove!. Don't worry, there are only two action buttons.
 
 ### Beat the heat!
-The Weatherman used his numeric powers to turn up the heat! Will you be able to bring temps back to normal?
+The Weatherman used the power of numbers to turn up the heat! Will you be able to bring temps back to normal?
 
 ## Dialogue Maker features highlighted
 ### Themes
