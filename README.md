@@ -8,7 +8,7 @@ This movie intends to showcase the features of version 5.0.0 of the [Dialogue Ma
 
 ## Summary
 ### Skate to the beat!
-This is a rhythm game, so get in the groove!. Don't worry, there are only two action buttons.
+This is a rhythm game, so get in the groove! Don't worry, there are only two action buttons.
 
 ### Beat the heat!
 The Weatherman used the power of numbers to turn up the heat! Will you be able to bring temps back to normal?
